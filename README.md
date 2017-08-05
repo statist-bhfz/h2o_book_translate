@@ -6,5 +6,5 @@
 
 * [Stacked Ensembles](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/stacked-ensembles.html)
 
-Также здесь будет находится список найденных опечаток (сообщить о которых можно здесь, в разделе `issues`, либо написав на почту ogurtsov.a.b@gmail.com).
+Также здесь будет находиться список найденных опечаток (сообщить о которых можно здесь, в разделе [issues](https://github.com/statist-bhfz/h2o_book_translate/issues), либо написав на почту ogurtsov.a.b@gmail.com).
 
